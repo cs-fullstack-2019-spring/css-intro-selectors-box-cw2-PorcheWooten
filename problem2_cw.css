@@ -1,0 +1,30 @@
+/*Give the p tags a gray background, and a right margin of 10%.*/
+/*Make the class "secondParagraph" have a background color of blue, and horizontally centered on the page.*/
+/*Create selectors to set the background of the first, third, and fourth classes to pink with top and bottom padding of 10px.*/
+/*Create a selector that styles the text My First Jibberish Post! that sets block properties as follows:*/
+                                                                                                                        /*width = 500px height = 100px padding = 10px dashed border = 3px And a setting that will keep the text horizontally centered on the page as the screen is resized*/
+p{
+    background-color: darkgray;
+    margin-right: 10%;
+}
+.secondParagraph{
+    background-color: blue;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.quote{
+    background-color: hotpink;
+    padding-bottom: 10px;
+}
+.random{
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    border-style: dashed;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}

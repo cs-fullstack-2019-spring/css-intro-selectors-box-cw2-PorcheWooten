@@ -1,0 +1,21 @@
+/*<!--Add CSS selector to make the h1 tags red, padded on all sides by 20px, and display 25% from the left side of the web page-->*/
+/*<!--Add CSS selector to make the h2 tags blue and have a 1px border-->*/
+/*<!--Add a CSS selector and use it to make all instances of the word 'better' green with a font-weight of bold-->*/
+h1{
+    color: red;
+    padding: 20px;
+    margin-left: 25%;
+}
+h2{
+    color: blue;
+    border-style: solid;
+    border-width: 5px;
+    /*border-left: 1px;*/
+    /*border-right: 1px;*/
+    /*border-top: 1px;*/
+    /*border-bottom: 1px;*/
+}
+.forBetter{
+    color: green;
+    font-weight: bold;
+}
